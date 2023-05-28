@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+.enunciados ul{
+    font-family: 'Press Start 2P', cursive;
+    justify-content: end;
+    font-size: 25px;
+    display: flex;
+    list-style: none; 
+    box-shadow: 0 0 50px blue;
+}
+.lista li{
+    margin-right: 30px;
+}
+.contacto{
+    border-radius: 30px;
+    background-color: blue;
+}
+.yeison{
+    font-family: 'Press Start 2P', cursive;
+    color: rgb(2, 11, 133);
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: 20px;
+
+}
+.nombre{
+    margin-left: 140px;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 40px;
+}
+.mellamo{
+    font-family: 'Press Start 2P', cursive;
+    margin-top: 6px;
+    margin-left: 60px;
+    font-size: 37px;
+    color: rgb(2, 11, 133);
+}
+.contenedor-principal{
+    display: flex;
+    align-items: center;
+}
+.imagen-principal{
+    margin-left: 250px;
+    width: 450px;
+    margin-top: 100px;
+
+}
+.conocimientos{
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 90px;
+    box-shadow: 0 0 50px blue;
+}
+.apenas{
+
+    font-family: 'Press Start 2P', cursive;
+    font-size: 15px;
+    margin-left: 10px;
+    text-align: center;
+}
+.sigue{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 15px;
+    margin-left: 10px;
+    text-align: center; 
+}
+.aun{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 15px;
+    margin-left: 10px;
+    text-align: center;
+}
+.ima{
+    margin-left: 400px;
+    margin-top: 1px;
+    width: 500px;
+}
+.comillas{
+    margin-top: 20px;
+    background-color: aquamarine;
+    text-align: center;
+    font-size: 200px;
+}
+
+.frase{
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Press Start 2P', cursive;
+    margin-top: 20px;
+}
+.mis{
+    background: blue;
+    height: 400px; 
+    font-family: 'Press Start 2P', cursive;
+    font-size: 30px;
+}
